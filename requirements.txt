@@ -1,0 +1,5 @@
+newspaper3k==0.2.2
+python_docx==0.8.6
+setuptools==20.7.0
+docx==0.2.4
+newspaper==0.1.0.7
